@@ -13,8 +13,8 @@ SQLServer2016EzApi is producing SQL Server Packages with the following charateri
 
 ## Changelog
 Major changes from SQLServer2014EzApi --> SQLServer2016EzApi
-1. Redising the package solution based on new methods
-2. EzPackage.MaxConcurrentExecutables
+1. EzExecutables.EzDataFlow.AutoAdjustBufferSize
+2. EzExecutables.EzPackage.MaxConcurrentExecutables
 
 ## Contributing
 
