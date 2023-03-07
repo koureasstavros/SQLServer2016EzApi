@@ -12,8 +12,9 @@ SQLServer2016EzApi is producing SQL Server Packages with the following charateri
 **Management Studio deployment wizard may affect the Build and PackageFormatVersion in case of using a newer version of SSMS for deploying package with older TargetSQLServerVersion version.
 
 ## Changelog
-Major changes from SQLServer2012EzApi --> SQLServer2014EzApi
-1. EzExecutables.EzDataFlow.AutoAdjustBufferSize
+Major changes from SQLServer2014EzApi --> SQLServer2016EzApi
+1. Redising the package solution based on new methods
+2. EzPackage.MaxConcurrentExecutables
 
 ## Contributing
 
